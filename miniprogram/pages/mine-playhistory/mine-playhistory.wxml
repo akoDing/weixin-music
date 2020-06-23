@@ -1,0 +1,2 @@
+<!--pages/mine-playhistory/mine-playhistory.wxml-->
+<x-musiclist musiclist="{{musiclist}}" />
